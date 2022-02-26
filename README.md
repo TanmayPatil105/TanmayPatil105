@@ -1,4 +1,4 @@
- 👋 Hi, I’m @TanmayPatil105
+ 👋 Hi, I’m Tanmay Patil
 
 
 <!---
