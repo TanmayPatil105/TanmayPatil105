@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 Leetcode  Stats
 
-https://leetcode.card.workers.dev/Txnmxy?theme=dark&font=&extension=null
+<img src="https://leetcode.card.workers.dev/Txnmxy?theme=dark&font=&extension=null">
