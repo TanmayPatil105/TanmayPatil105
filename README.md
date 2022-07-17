@@ -6,3 +6,8 @@ TanmayPatil105/TanmayPatil105 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github-readme-stats.vercel.app/api?username=TanmayPatil105&&show_icons=true&title_color=fca311&icon_color=bb2acf&text_color=f4b41a&bg_color=14213d">
+
+
+Leetcode  Stats
+
+https://leetcode.card.workers.dev/Txnmxy?theme=dark&font=&extension=null
