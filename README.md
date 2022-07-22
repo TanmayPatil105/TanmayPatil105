@@ -8,6 +8,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=TanmayPatil105&&show_icons=true&title_color=fca311&icon_color=bb2acf&text_color=f4b41a&bg_color=14213d">
 
 
-Leetcode  Stats
 
-<img src="https://leetcode.card.workers.dev/Txnmxy?theme=wtf&font=baloo&extension=null">
