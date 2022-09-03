@@ -11,6 +11,5 @@ Gitlab Profile :
 </p>
 
 <p align="center">
-Leetcode Profile : 
-<a href="https://leetcode.com/Txnmxy">@Txnmxy</a>
+<a href="https://www.leetcode.com/txnmxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="txnmxy" height="30" width="40" /></a>
 </p>
