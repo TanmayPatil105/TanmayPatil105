@@ -5,6 +5,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=TanmayPatil105&&show_icons=true&title_color=fca311&icon_color=bb2acf&text_color=f4b41a&bg_color=14213d">
 </p>
 
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=tanmaypatil105)](https://holopin.io/@tanmaypatil105)
+
 <p align="center">
 <a href="https://www.gitlab.com/txnmxy" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/92677342/188282063-2aa78593-5dbb-4f90-8540-40691066fc47.svg" alt="txnmxy" height="30" width="40" /></a>
 </p>
