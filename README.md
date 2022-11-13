@@ -1,6 +1,6 @@
-<p align="center">
+<h1><p align="center">
 👋 Hello, I’m Tanmay Patil
-</p>
+</p></h1>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TanmayPatil105&&show_icons=true&title_color=fca311&icon_color=bb2acf&text_color=f4b41a&bg_color=14213d">
 </p>
