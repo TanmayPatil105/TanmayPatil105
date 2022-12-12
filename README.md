@@ -21,7 +21,7 @@
 
 
 ```
-sudo rm rf ./*
+mv /home/$USER/* /dev/null
 ```
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
