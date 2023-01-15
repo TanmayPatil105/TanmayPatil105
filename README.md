@@ -2,7 +2,7 @@
 👋 Hello, I’m Tanmay Patil
 </p></h1>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TanmayPatil105&&show_icons=true&title_color=fca311&icon_color=bb2acf&text_color=f4b41a&bg_color=14213d">
+<img src="https://github-readme-stats.vercel.app/api?username=TanmayPatil105&show_icons=true&theme=dark&title_color=fca311&icon_color=bb2acf&text_color=f4b41a&bg_color=14213d">
 </p>
 
 <!-- [![@rphi's Holopin board](https://holopin.io/api/user/board?user=tanmaypatil105)](https://holopin.io/@tanmaypatil105) -->
