@@ -20,7 +20,7 @@
 </p> -->
 
 <h4><p align="center">
-Expressing myself through tech 🙂
+Expressing myself through tech :)
 </p></h4>
 <h4><p align="center">
 I like playing with binaries
