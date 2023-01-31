@@ -28,6 +28,10 @@ I like playing with binaries
 <h4><p align="center">
 I love the way Package Managers work
 </p></h4>
+<h4><p align="center">
+What inspires me? Stars ⭐ ig  
+</p></h4>
+
 
 
 ```
