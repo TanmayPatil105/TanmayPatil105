@@ -29,7 +29,7 @@ I like playing with binaries
 I love the way Package Managers work
 </p></h4>
 <h4><p align="center">
-What inspires me? Stars ⭐ ig  
+What motivates me? Stars ⭐ ig  
 </p></h4>
 
 
