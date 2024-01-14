@@ -1,10 +1,4 @@
 <p align="center">
-```
-  My sense of curiosity is desiring to know nothing 
-  ~ Tanmay
-```
-</p>
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TanmayPatil105&show_icons=true&theme=dark&count_private=true&cache_seconds=1800&title_color=fca311&icon_color=bb2acf&text_color=f4b41a&include_all_commits=true">
 </p>
 
